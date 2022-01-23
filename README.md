@@ -1,0 +1,5 @@
+- 👋🏼 Hi, I’m Djordje (George) Kaludjerovic (Kaluderovich).
+- 🧠 I’m interested in fullstack web development.
+- 📚 I’m currently learning web development via the Odin project.
+- 🔗 I’m looking to collaborate on nothing atm.
+- 📫 Email: georgekaludjerovic@gmail.com
